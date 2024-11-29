@@ -1,4 +1,9 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://sahil-kushwaha.web.app/)
+<div align="center">
+  <a href="https://sahil-kushwaha.web.app/">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead" style="width: 100%; max-width: 100%; height: auto;"/>
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Sahil Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -8,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🔭 I’m currently working on **Wipro**
+- 🔭 I’m currently working at **Wipro**
 
 - 🌱 I’m currently learning **React Native**
 
